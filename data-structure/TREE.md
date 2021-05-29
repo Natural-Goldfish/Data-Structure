@@ -44,8 +44,8 @@
       ---
       
       _**Binary Search Tree**_ 는 _**binary search**_ 와 _**linked list**_ 를 결합한 자료구조의 일환으로, 효율적인 탐색 능력을 유지하면서도 빈번한 삽입과 삭제를 가능하게 하고자 고안되었습니다.
-      - _**Binary search**_ 에서 탐색은 ![image](https://user-images.githubusercontent.com/45135668/120072205-9379e500-c0cd-11eb-8c3f-053d40ad5c79.png) 이 소요 되지만, 삽입과 삭제가 불가능 하다는 단점이 있습니다.
-      - _**Linked list**_ 의 경우, 삽입과 삭제는 ![image](https://user-images.githubusercontent.com/45135668/120072230-bc9a7580-c0cd-11eb-81a7-9a1891b32483.png) 로 효율적이지만, 탐색은 ![image](https://user-images.githubusercontent.com/45135668/120072243-cb812800-c0cd-11eb-89fd-224b0dd7bb1b.png) 으로 삽입과 삭제 연산에 비해 상대적으로 높은 비용이 소모됩니다.
+      - Binary search에서 탐색은 ![image](https://user-images.githubusercontent.com/45135668/120072205-9379e500-c0cd-11eb-8c3f-053d40ad5c79.png) 이 소요 되지만, 삽입과 삭제가 불가능 하다는 단점이 있습니다.
+      - Linked list의 경우, 삽입과 삭제는 ![image](https://user-images.githubusercontent.com/45135668/120072230-bc9a7580-c0cd-11eb-81a7-9a1891b32483.png) 로 효율적이지만, 탐색은 ![image](https://user-images.githubusercontent.com/45135668/120072243-cb812800-c0cd-11eb-89fd-224b0dd7bb1b.png) 으로 삽입과 삭제 연산에 비해 상대적으로 높은 비용이 소모됩니다.
        
       </br>
 
