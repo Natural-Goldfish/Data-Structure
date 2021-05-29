@@ -24,11 +24,11 @@
         - #### Perfect Binary Tree(포화 이진 트리)
         - #### Skewed Binary Tree(편향 이진 트리)
         - #### Binary Search Tree(이진 탐색 트리)
+      - ### Heap
+        - #### Heap Sort
       - ### Balanced Tree(균형 트리)
         - #### Adelson-Velsky and Landis Tree(AVL Tree)
         - #### Red-Black Tree
         - #### B-Tree
       - ### Segment Tree
-    - ### Heap
-    - ### Set
   - ## Hash Table
