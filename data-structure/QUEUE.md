@@ -1,4 +1,4 @@
-- # Queue
+# Queue
 
   - ## Better
     - ### Linked List Queue
