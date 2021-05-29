@@ -12,15 +12,15 @@
     
     - ### _class queue.Queue(maxsize=0)_
 
-      _First In First Out_ 을 사용하며, 첫 번째로 추가 된 entry가 첫 번째로 검색됩니다. 
+      _**First In First Out**_ 을 사용하며, 첫 번째로 추가 된 entry가 첫 번째로 검색됩니다. 
     
     - ### _class queue.LifoQueue(maxsize=0)_
 
-      _Last In First Out_ 을 사용하며, _Stack_ 과 동일한 동작을 보이며 가장 최근에 추가 된 entry가 첫 번째로 검색됩니다.
+      _**Last In First Out**_ 을 사용하며, _Stack_ 과 동일한 동작을 보이며 가장 최근에 추가 된 entry가 첫 번째로 검색됩니다.
       
     - ### _class queue.PrioirtyQueue(maxsize=0)_
 
-      _Priority Queue_ 에서는 _heapq module_ 을 사용하여 내부적으로 entries를 정렬하며, 가장 낮은 값을 가진 entry가 첫 번째로 검색됩니다.
+      _Priority Queue_ 에서는 _**heapq module**_ 을 사용하여 내부적으로 entries를 정렬하며, 가장 낮은 값을 가진 entry가 첫 번째로 검색됩니다.
     
 
     
