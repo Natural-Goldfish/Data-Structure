@@ -1,12 +1,11 @@
 - # Queue
 
-  - ## Linear Queue
-    - ### Using Linked List
-  - ## Circular Queue
+  - ## Better
+    - ### Linked-List Queue
+    - ### Circular Queue
 
-  - ## Priority Queue
-    - ### Using Array
-    - ### Using Heap
+  - ## Priority Queue(Min-Heap, Max-Heap)
+    
   - ## In Python
 
     Python에서는 entry 검색 순서만 다른, 세 가지 _Queue_ 를 제공합니다. _maxsize_ 를 설정하는 것으로 queue의 범위를 지정할 수 있습니다. 만약, 0 혹은 0보다 작은 음수 값을 설정하는 경우에는 queue의 크기는 infinite 합니다. Queue가 꽉 찬 경우, insertion은 queue의 원소가 비워지기 전까지 무시됩니다.
