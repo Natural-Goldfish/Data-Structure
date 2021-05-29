@@ -17,7 +17,7 @@
       - #### Undirected Graph(무방향 그래프)
       - #### Weighted Graph(가중치 그래프)
       - ### Spanning Tree
-        - #### Min-Spanning Tree
+        - #### Minimum Spanning Tree
     - ### Tree
       - ### Binary Tree(이진 트리)
         - #### Binary Tree Traversal(이진 트리 순회)
