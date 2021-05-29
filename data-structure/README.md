@@ -1,5 +1,5 @@
-- # Data Structures
-  - ## Linear Data Structures(선형 구조)
+# Data Structure
+  - ## Linear Data Structure(선형 구조)
     - ### List
     - ### Linked List
       - #### Singly Linked List(단방향 연결 리스트)
@@ -11,7 +11,7 @@
       - #### Circular Queue
       - #### Priority Queue(Min-Heap, Max-Heap)
     - ### Deque
-  - ## Non-Linear Data Structres(비선형 구조)
+  - ## Non-Linear Data Structre(비선형 구조)
     - ### Graph
       - #### Directed Graph(방향 그래프)
       - #### Undirected Graph(무방향 그래프)
