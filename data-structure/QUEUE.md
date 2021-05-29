@@ -1,7 +1,7 @@
 - # Queue
 
   - ## Better
-    - ### Linked-List Queue
+    - ### Linked List Queue
     - ### Circular Queue
 
   - ## Priority Queue(Min-Heap, Max-Heap)
