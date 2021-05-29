@@ -7,17 +7,28 @@
       - #### Circular Linked List(원형 연결 리스트)
     - ### Stack
     - ### Queue
-      - #### Linear Queue
+      - #### Linked List Queue
       - #### Circular Queue
-      - #### Priority Queue
+      - #### Priority Queue(Min-Heap, Max-Heap)
     - ### Deque
   - ## Non-Linear Data Structres(비선형 구조)
     - ### Graph
       - #### Directed Graph(방향 그래프)
       - #### Undirected Graph(무방향 그래프)
       - #### Weighted Graph(가중치 그래프)
+      - ### Spanning Tree
+        - #### Min-Spanning Tree
     - ### Tree
-      - #### Binary Tree(이진 트리)
+      - ### Binary Tree(이진 트리)
+        - #### Complete Binary Tree(완전 이진 트리)
+        - #### Perfect Binary Tree(포화 이진 트리)
+        - #### Skewed Binary Tree(편향 이진 트리)
+        - #### Binary Search Tree(이진 탐색 트리)
+      - ### Balanced Tree(균형 트리)
+        - #### Adelson-Velsky and Landis Tree(AVL Tree)
+        - #### Red-Black Tree
+        - #### B-Tree
+      - ### Segment Tree
     - ### Heap
       - #### Min Heap
       - #### Max Heap
