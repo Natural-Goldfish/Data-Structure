@@ -57,6 +57,11 @@
 
       </br>
 
+  - ## Heap
+
+    - ### Heap Sort
+
+    </br>
     
   - ## Balanced Tree(균형 트리)
     
