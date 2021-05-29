@@ -1,7 +1,6 @@
 - # Queue
 
   - ## Linear Queue
-    - ### Using Array
     - ### Using Linked List
   - ## Circular Queue
 
