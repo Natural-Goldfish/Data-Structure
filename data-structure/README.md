@@ -30,7 +30,5 @@
         - #### B-Tree
       - ### Segment Tree
     - ### Heap
-      - #### Min Heap
-      - #### Max Heap
     - ### Set
   - ## Hash Table
