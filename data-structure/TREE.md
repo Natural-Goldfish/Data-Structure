@@ -54,8 +54,22 @@
       - _**Left node**_ 는 _**parent node보다 작은 값**_ 을 가져야 합니다.
       - _**Right node**_ 는 _**parent node보다 큰 값**_ 을 가져야 합니다.
       - _**중복된 노드를 가지지 않습니다.**_
+      - _**왼쪽 서브 트리와 오른쪽 서브 트리 또한 binary search tree입니다.**_
 
       </br>
+
+      _**Time complexity**_ 는 평균적으로 ![image](https://latex.codecogs.com/gif.latex?O%28log%5C%3A%20n%29) 가 소요되지만, worst case(좌측 혹은 우측으로 편향된 경우)에는 ![image](https://latex.codecogs.com/gif.latex?O%28n%29) 가 소요됩니다.  
+      
+      </br>
+
+      - #### Insertion
+      - #### Deletion
+        - #### No Children
+          삭제 대상 노드를 삭제합니다.
+        - #### One Child
+          _**Child node가 삭제된 노드를 대체합니다.**_
+        - #### Two Children
+          삭제되는 노드의 _**왼쪽 서브 트리에서 가장 오른쪽에 있는 노드**_ 혹은 _**오른쪽 서브 트리에서 가장 왼쪽에 있는 노드**_ 가 삭제되는 노드를 대체합니다.
 
   - ## Heap
 
