@@ -1,8 +1,16 @@
 # Queue
+  _**Queue**_ 는 _**먼저 입력된 자료가 먼저 출력되는(first in first out)**_ 자료 구조입니다. 기본적으로 자료를 입력하는 _**enqueue**_ 와 입력된 자료를 꺼내는 _**dequeue**_ 를 가지고 있습니다.  
+  
+  _**List(or array)로 구현된 queue**_ 는 deletion연산이 발생했을 때, front pointer가 가리키는 원소에 pop연산을 적용하고 남아 있는 원소들을 앞으로 한 칸씩 이동합니다. 따라서, _**time complexity**_ 는 _**search, insertion and deletion**_ 에서 ![image](https://user-images.githubusercontent.com/45135668/120778965-90fe0c00-c561-11eb-83a5-79a77e372f12.png) 을 가집니다. 이와 같은 구현 방식은 deletion 이후에 _**list(array)를 재구성하는 과정에서 time complexity가 증가**_ 했고, 이를 개선한 방법들이 고안되었습니다. :  
 
-  - ## Better
-    - ### Linked List Queue
-    - ### Circular Queue
+  - ### Linked List Queue
+  - ### Circular Queue
+
+  </br>
+
+  _**Time complexity**_ 는 _**search**_ 에서 ![image](https://user-images.githubusercontent.com/45135668/120778965-90fe0c00-c561-11eb-83a5-79a77e372f12.png) , _**insertion과 deletion**_ 에서는 ![image](https://user-images.githubusercontent.com/45135668/120779062-a7a46300-c561-11eb-9261-8b7af4149ef2.png) 을 가집니다.
+
+  </br>
 
   - ## Priority Queue(Min-Heap, Max-Heap)
     
