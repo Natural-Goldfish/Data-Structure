@@ -19,11 +19,11 @@
 
     _**Binary Tree**_ 는 _**자식 노드가 최대 2개로 제한된 tree**_ 입니다.  
     
-    _**Perfect Binary Tree**_ 는 _**leaf node를 제외한 모든 노드가 2개의 자식 노드를 가지는 트리**_ 를 의미합니다.  
+    _**Perfect Binary Tree(포화 이진 트리)**_ 는 _**leaf node를 제외한 모든 노드가 2개의 자식 노드를 가지는 트리**_ 를 의미합니다.  
     
-    _**Complete Binary Tree**_ 는 _**perfect binary tree에서 마지막 level의 우측 노드를 하나씩 제거하여 얻은 트리**_ 를 의미합니다.  
+    _**Complete Binary Tree(완전 이진 트리)**_ 는 _**perfect binary tree에서 마지막 level의 우측 노드를 하나씩 제거하여 얻은 트리**_ 를 의미합니다.  
 
-    _**Skewed Binary Tree**_ 는 _**모든 노드가 부모 노드의 왼쪽에 존재하거나, 우측에 존재하는 트리**_ 를 의미합니다.  
+    _**Skewed Binary Tree(편향 이진 트리)**_ 는 _**모든 노드가 부모 노드의 왼쪽에 존재하거나, 우측에 존재하는 트리**_ 를 의미합니다.  
     
     </br>
     
