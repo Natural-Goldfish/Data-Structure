@@ -1,2 +1,38 @@
-# Data-Structure  
-2020.03 ~ 2020.06
+# Data Structure
+  - ## Linear Data Structure(선형 구조)
+    - ### List
+    - ### Linked List
+      - #### Singly Linked List(단방향 연결 리스트)
+      - #### Doubly Linked List(이중 연결 리스트)
+      - #### Circular Linked List(원형 연결 리스트)
+    - ### Stack
+    - ### Queue
+      - #### Linked List Queue
+      - #### Circular Queue
+      - #### Priority Queue(Min-Heap, Max-Heap)
+    - ### Deque
+  - ## Non-Linear Data Structre(비선형 구조)
+    - ### Graph
+      - #### Directed Graph(방향 그래프)
+      - #### Undirected Graph(무방향 그래프)
+      - #### Weighted Graph(가중치 그래프)
+      - ### Spanning Tree
+        - #### Minimum Spanning Tree
+    - ### Tree
+      - ### Binary Tree(이진 트리)
+        - #### Binary Tree Traversal(이진 트리 순회)
+        - #### Binary Search Tree(이진 탐색 트리)
+      - ### Heap
+        - #### Heap Sort
+      - ### Balanced Tree(균형 트리)
+        - #### Adelson-Velsky and Landis Tree(AVL Tree)
+        - #### Red-Black Tree
+        - #### B-Tree
+      - ### Segment Tree
+  - ## Hash Table
+    - ### Hash Collision
+      - ### Chaining
+      - ### Open Addressing
+        - #### Linear Probing
+        - #### Quadratic Probing
+        - #### Double Hashing
