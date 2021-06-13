@@ -16,19 +16,17 @@
       - #### Directed Graph(방향 그래프)
       - #### Undirected Graph(무방향 그래프)
       - #### Weighted Graph(가중치 그래프)
-      - ### Spanning Tree
-        - #### Minimum Spanning Tree
+      - #### Spanning Tree
     - ### Tree
       - ### Binary Tree(이진 트리)
         - #### Binary Tree Traversal(이진 트리 순회)
         - #### Binary Search Tree(이진 탐색 트리)
-      - ### Heap
-        - #### Heap Sort
+        - #### Segment/Static Tree(세그먼트 트리)
+        - #### Heap
       - ### Balanced Tree(균형 트리)
         - #### Adelson-Velsky and Landis Tree(AVL Tree)
         - #### Red-Black Tree
         - #### B-Tree
-      - ### Segment Tree
   - ## Hash Table
     - ### Hash Collision
       - ### Chaining
