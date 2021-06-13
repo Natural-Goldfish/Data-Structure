@@ -71,16 +71,30 @@
         - #### Two Children
           삭제되는 노드의 _**왼쪽 서브 트리에서 가장 오른쪽에 있는 노드**_ 혹은 _**오른쪽 서브 트리에서 가장 왼쪽에 있는 노드**_ 가 삭제되는 노드를 대체합니다.
 
-  - ## Heap
+    </br>
 
-    - ### Heap Sort
+    - ### Segment/Statistic Tree(세그먼트 트리)
+      ---
+      
+      _**Segment Tree**_ 는 _**각 노드가 배열의 부분 합을 나타내는 binary tree의 종류 중 하나 입니다.**_  
+      
+      _**Leaf node**_ 는  _**해당 index의 배열의 값**_ 을 의미합니다.  
+      
+      _**Other nodes**_ 는 _**임의의 배열<sub>i</sub> ~ 배열<sub>k</sub>(k > i >= 1) 사이의 부분 합**_ 을 의미합니다.
 
     </br>
+  
+    - ### Heap
+      ---
+      
+      - ### Heap Sort
+
+    </br>
+    
+  </br>    
     
   - ## Balanced Tree(균형 트리)
     
     - ### Adelson-Velsky and Landis Tree(AVL Tree)
     - ### Red-Black Tree
     - ### B-Tree
-
-  - ## Segment Tree
